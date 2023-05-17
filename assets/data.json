@@ -1,0 +1,74 @@
+{
+   "result": [
+      {
+         "name": "Soyabin",
+         "city": "Kallam, Osmanabad",
+         "rate": 5100,
+         "growth": 100,
+         "isUp": true
+      },
+      {
+         "name": "Maka",
+         "city": "Kallam, Osmanabad",
+         "rate": 4600,
+         "growth": 300,
+         "isUp": false
+      },
+      {
+         "name": "Jwari",
+         "city": "Kallam, Osmanabad",
+         "rate": 4910,
+         "growth": 90,
+         "isUp": true
+      },
+      {
+         "name": "Gahu",
+         "city": "Kallam, Osmanabad",
+         "rate": 5400,
+         "growth": 200,
+         "isUp": true
+      },
+      {
+         "name": "Bajari",
+         "city": "Kallam, Osmanabad",
+         "rate": 3500,
+         "growth": 300,
+         "isUp": false
+      },
+      {
+         "name": "Harabara",
+         "city": "Kallam, Osmanabad",
+         "rate": 2500,
+         "growth": 70,
+         "isUp": true
+      },
+      {
+         "name": "Ture",
+         "city": "Kallam, Osmanabad",
+         "rate": 3400,
+         "growth": 200,
+         "isUp": false
+      },
+      {
+         "name": "Moong",
+         "city": "Kallam, Osmanabad",
+         "rate": 2600,
+         "growth": 400,
+         "isUp": false
+      },
+      {
+         "name": "Sheng Dana",
+         "city": "Kallam, Osmanabad",
+         "rate": 3700,
+         "growth": 150,
+         "isUp": true
+      },
+      {
+         "name": "Mhasoor",
+         "city": "Kallam, Osmanabad",
+         "rate": 4700,
+         "growth": 800,
+         "isUp": true
+      }
+   ]
+}
